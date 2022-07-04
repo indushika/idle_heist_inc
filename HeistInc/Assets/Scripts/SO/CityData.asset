@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 538f1b43597cd754b9387641850c4c74, type: 3}
+  m_Name: CityData
+  m_EditorClassIdentifier: 
+  Cities:
+  - City_Index: 0
+    City_name: Pawnee
+    buildingData: {fileID: 11400000, guid: 04d2c4d2ea16a1c46b6da88c1798f424, type: 2}
+    number_of_buildings: 3
+    status: 1
+    Unlock_level: 0
+    Number_of_Levels: 21
+  Active_City_Index: 0

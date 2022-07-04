@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19d507ec8242c81439e33baf79e9cc5e, type: 3}
+  m_Name: BoostsData
+  m_EditorClassIdentifier: 
+  InstantEarnings: 100
+  InstantEarningsReloadTime: 20
+  DoubleEarningsMultiplier: 2
+  DoubleEarningsTime: 20
+  DoubleEarningsReloadTime: 20
+  AutomaticTappingBoostTime: 10
+  NumberofAutomaticTaps: 100
+  AutomaticTappingBoostReloadTime: 30

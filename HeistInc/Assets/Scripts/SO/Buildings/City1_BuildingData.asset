@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24dfc141655428d49962b7b8f4b3cd85, type: 3}
+  m_Name: City1_BuildingData
+  m_EditorClassIdentifier: 
+  Buildings:
+  - Building_Index: 0
+    Building_name: House
+    status: 2
+    Unlock_level: 0
+    ObjectPrefabs:
+    - {fileID: 918142092153621899, guid: 279342917fb51ef448f6bc5b7c365c02, type: 3}
+    - {fileID: 6111478218806041296, guid: ff96229c0425f4b44817a57876b14fd0, type: 3}
+    - {fileID: 3257112841461381057, guid: dfd875dfc5400d64e86e022e120c21b0, type: 3}
+    - {fileID: 7635460875152640286, guid: 5771124669cc62f4b90a4f33d16a31ed, type: 3}
+    - {fileID: 7225833466313554709, guid: d2756a78c351f6c4f906f9da717373cc, type: 3}
+    - {fileID: 7220516786816876061, guid: 7dc8da45bad57a34ebc3c2aaad728b4f, type: 3}
+    - {fileID: 3367586849884786710, guid: 2c8864469caf5ae4ea781a12197e2941, type: 3}
+    - {fileID: 4392407411519063424, guid: 1b23384975dbd61449bef4639f24b311, type: 3}
+    - {fileID: 3062463814586279281, guid: 5f1467bfaf186684887be56dd44408ff, type: 3}
+    - {fileID: 7454544684038175797, guid: bbc967b465dc71e4f86577e62108f3a5, type: 3}
+    - {fileID: 7235667591190231573, guid: 61f1035a3d23e2d408138829a2e5884a, type: 3}
+    - {fileID: 1999052135267918311, guid: 680ffde5c7beacd4a92f9a40f21cc9b9, type: 3}
+    - {fileID: 6706834339482602571, guid: 9233d6accaf564d458ac9e380d010703, type: 3}
+    - {fileID: 3145856132075478004, guid: c09676ee9a214a4419697e593f9cce36, type: 3}
+    - {fileID: 7090469206171224667, guid: 92779d07bcabcdc47af69c4e53958911, type: 3}
+    - {fileID: 7617303006031586942, guid: 625d2bd6faca3024182ec58792fa4300, type: 3}
+    - {fileID: 1055937426283569980, guid: ac7c17ec9abffe843a5cd8e1b68af0ea, type: 3}
+    - {fileID: 4537523400498845756, guid: 6cc49f47a57d28244a862673cb69cb9f, type: 3}
+    - {fileID: 3767060664578212733, guid: d1889f4f35a866949abbb1d02dcc69b5, type: 3}
+    - {fileID: 624146638215308467, guid: 7f1e104666495b6489daf92bb3a23154, type: 3}
+    - {fileID: 7080153687959674625, guid: 3ccc3a20b539d1741b6b027fe7698639, type: 3}
+    - {fileID: 4103015395565964883, guid: 272d7f3104a2db74682e5a0bcbf7c2b6, type: 3}
+    - {fileID: 3707991205040842893, guid: 826a2d7e7aef7034e83fbb7339f596f6, type: 3}
+    - {fileID: 6700424366406302180, guid: 3cc0d4fdd2181e94496930355143432e, type: 3}
+    - {fileID: 4758157447257626690, guid: af4c019a5075bfd4e9cc1ad12ace824f, type: 3}
+    - {fileID: 1734212996935234627, guid: ba08ba9a66489954f8d944c2cc609177, type: 3}
+    Number_of_objects: 2
+    BuildingBonusMultiplier: 0
+  - Building_Index: 1
+    Building_name: FancyHouse
+    status: 1
+    Unlock_level: 4
+    ObjectPrefabs:
+    - {fileID: 625422392248583917, guid: fb1d6d7c8f244b544bdcaada94ffa506, type: 3}
+    - {fileID: 4839814878433156480, guid: 2294560ce18a53749934e61943f632ed, type: 3}
+    - {fileID: 7401707247807089971, guid: f5fa36628ba588949a98eaa94555a081, type: 3}
+    - {fileID: 488061286723642826, guid: 170f479d790cc2a41a6365e21f672d30, type: 3}
+    - {fileID: 1531395006732710166, guid: 8fe50991db530304a8030dd82a860332, type: 3}
+    - {fileID: 8120579295878412864, guid: 29f34157a29332a4794249fcc932b5a9, type: 3}
+    - {fileID: 2753628874749833471, guid: abf3df51434501f40b71477084c65515, type: 3}
+    - {fileID: 7785940049776183601, guid: 00dd1a7c2185271449b03d90b4e5cd81, type: 3}
+    - {fileID: 3940434184361356093, guid: 4245ec9db5af22d49abd7434d277bc8e, type: 3}
+    - {fileID: 4665924022353544623, guid: b309a16ccb8a89049842ae61bf29d636, type: 3}
+    - {fileID: 343521014108173303, guid: 283c9eb3d102c2849b301d2323ff327c, type: 3}
+    - {fileID: 2764850809535580964, guid: fd8e5060238825a4f8f60c3345da1fc8, type: 3}
+    - {fileID: 5162755626505892888, guid: c4871e9902631da4db661746af8c2453, type: 3}
+    - {fileID: 1277879957042491068, guid: ec39f8fdfb8b5de4f8e8d6ae1919f2c6, type: 3}
+    - {fileID: 1927641253669824555, guid: 6076011b06e0aa342a4078373a5d6189, type: 3}
+    - {fileID: 3789071130659528450, guid: dedc862297acc6945af33525ef7ad236, type: 3}
+    - {fileID: 8974110328547062850, guid: 9cc75349033c76f419a95258c65d7462, type: 3}
+    - {fileID: 8105780657713561384, guid: 6c8a06043a885e6469c0e3a63bdc6787, type: 3}
+    - {fileID: 4214372055819181870, guid: b6e350a50078bbc4ba6c5e57f07c86ad, type: 3}
+    - {fileID: 4224227711234835892, guid: 2f0a0cfa5232c894f88db06fae379a2f, type: 3}
+    - {fileID: 3872268739075159777, guid: ae4416cc1ad22db4baacc28f03479dcc, type: 3}
+    - {fileID: 4463987169782958841, guid: 21862e9f24d1a344faac829502c158e1, type: 3}
+    - {fileID: 3663329774149953219, guid: 886d9a35a32005043b43290c0b19ec09, type: 3}
+    - {fileID: 1528029752280300228, guid: f93d715917635894f859aa5072b2da68, type: 3}
+    - {fileID: 3491817598421444290, guid: 333becc1755173c499a56823e82856c9, type: 3}
+    - {fileID: 6137148256381016909, guid: 6c1b9a84a7a0aac46a85d47a37b24d78, type: 3}
+    - {fileID: 7930271552655475582, guid: 9c2f71f07e18baa49875004d7ca132a5, type: 3}
+    - {fileID: 6962846918752007125, guid: 8720bd6978826884cb719a8c0d7452ef, type: 3}
+    - {fileID: 3685795115749863667, guid: b7ed852580b4e7d4686c34bc6cee5804, type: 3}
+    - {fileID: 8512480234012286509, guid: a804e971307c0a946ac7cd1543f7423f, type: 3}
+    - {fileID: 3548635502714147526, guid: daabbc1472a17154ba04e97b9a381bdb, type: 3}
+    - {fileID: 8450256491123081128, guid: 34efa4b869defb94b9d2630c8c21dcf1, type: 3}
+    - {fileID: 7057737207592217919, guid: 29b12862f270fde429387a9a03087204, type: 3}
+    - {fileID: 6334851164977085450, guid: 72edbb870633d41459a2cb675686b52e, type: 3}
+    - {fileID: 3432106768146043393, guid: a40e182f3230ccb4e85312b878638f3d, type: 3}
+    - {fileID: 6659298029843630043, guid: c56c7b354d8b46b4693cbe71b21116e0, type: 3}
+    - {fileID: 2247750801245950602, guid: 4ff0517b3f0c34e4893411932f007f0d, type: 3}
+    - {fileID: 7056684791159763638, guid: 09c1b944044eb1c4b838a66bbe2b5cfb, type: 3}
+    - {fileID: 4342404431161822774, guid: 87109dec30de7e040890b8ad8632d99c, type: 3}
+    - {fileID: 7706104782677317813, guid: aff7f93f9d537954f95285042c5e22b5, type: 3}
+    - {fileID: 283198793376143985, guid: 2a7d1f48667e274489f599e32918b2b5, type: 3}
+    - {fileID: 186019653914521305, guid: 36ed816613705dc48902fd38e2828573, type: 3}
+    - {fileID: 7847434059543966413, guid: b721c928bbf9e2545b4ca5de7154aadf, type: 3}
+    - {fileID: 6169069238855747815, guid: a7f9dfb1cf451a14ea3cab06e2b2b6dd, type: 3}
+    - {fileID: 7368423670206315697, guid: 009a1ad8aeb05c2409acfcc6c69bbfe1, type: 3}
+    - {fileID: 5091897289226401011, guid: 43bec58647afcf84db1b26b50a079e41, type: 3}
+    Number_of_objects: 2
+    BuildingBonusMultiplier: 0.5
+  - Building_Index: 2
+    Building_name: JewleryStore
+    status: 1
+    Unlock_level: 11
+    ObjectPrefabs:
+    - {fileID: 1145667143863035759, guid: 2812b3b495f1e304ba12eb72de1752a7, type: 3}
+    - {fileID: 9145613421513804667, guid: 067ca37c73106cc43bfa65b14e8ab873, type: 3}
+    - {fileID: 8086776177255487809, guid: b8b911d100302724ca6ecae22ca34048, type: 3}
+    - {fileID: 3791993334448875692, guid: 2c2c16595ccad624394ad21bc434dc42, type: 3}
+    - {fileID: 5762350379703042302, guid: 27b8e54ba0c994c4987d4269dfedbca8, type: 3}
+    - {fileID: 668489415002236040, guid: de2aa26e0538cbd45aa554bd92ca564b, type: 3}
+    - {fileID: 2010351951373921865, guid: c16a7bdc4f01d2c4ca89c045d2c7b140, type: 3}
+    - {fileID: 6187796212282348912, guid: 88b88d6d134cd474f8c67c1f1144bd48, type: 3}
+    - {fileID: 1668567294026942498, guid: 789ca26e1f329e9489613b37fc16b080, type: 3}
+    - {fileID: 7258943312510048161, guid: bbca37549c3f2954ba39af9279a2187c, type: 3}
+    - {fileID: 8103271409519311415, guid: 5cfb256b09268814d848154bdf702c1c, type: 3}
+    - {fileID: 8161751852528068370, guid: 0f6ab492f175b1245addaa26edb2a7f6, type: 3}
+    - {fileID: 6383771437827182421, guid: dc9acf7055413324fa11af91c81272a0, type: 3}
+    - {fileID: 7648100199396297490, guid: 9d2f9c369a7b029428386c62b7816d02, type: 3}
+    - {fileID: 2894648472666100450, guid: 5b86b0d5c8c71684c8efd11377876af0, type: 3}
+    - {fileID: 6724237964183157255, guid: 3bf2031a80f602e428c98bcf79f79679, type: 3}
+    - {fileID: 5233478682053783831, guid: e572f96be5fde3544bfcb37658b14398, type: 3}
+    - {fileID: 4477153057308288795, guid: ba872f3d78583be47ac516c2e77ac46a, type: 3}
+    - {fileID: 7317661202506609576, guid: fb94c0a792634954a8c9afda66fc85a3, type: 3}
+    - {fileID: 7594873300295199070, guid: 647b40aa3a1af5c48a42af18899c2464, type: 3}
+    - {fileID: 5137126022234817391, guid: c67ee39e610f9c7409f2e541781bb6cb, type: 3}
+    - {fileID: 8728061779077360184, guid: b2a586dd55c70fb4aaf269e626499a26, type: 3}
+    - {fileID: 8297045618326880437, guid: be9eb0a0fac91564f935aaa7ebfdbe0d, type: 3}
+    - {fileID: 2200130341397107383, guid: 57d7ccb1481125f4db7956276bd11062, type: 3}
+    - {fileID: 6799192594963121549, guid: b5c66b9540c304b4fb2616c8951d406b, type: 3}
+    - {fileID: 26398018830393711, guid: 1d73787912160dd41abe6de411c15fda, type: 3}
+    - {fileID: 4778385576952002056, guid: 377a0de54b39f1a419a459c5719844a7, type: 3}
+    - {fileID: 4451341935040901991, guid: cb5907e2985b8324d987d8e51576979b, type: 3}
+    - {fileID: 4895136580960766379, guid: 80bb445e70e3f30478ea239f6358d97f, type: 3}
+    - {fileID: 6088769180888896920, guid: 7bcd4f0fa86522f48ad8e33217b6918f, type: 3}
+    - {fileID: 6998300844393737528, guid: 913e84739de26f64dac59df0fc6b57e2, type: 3}
+    - {fileID: 6039653637076646930, guid: 775a03f11e1f3c34fbe3aa82777a1daf, type: 3}
+    - {fileID: 7391531173698151652, guid: 6a648fe3ad61261448093f32f51a2cfe, type: 3}
+    - {fileID: 863193189867117349, guid: 1332c304d200af940a13bdba6997d471, type: 3}
+    - {fileID: 4448651609308383440, guid: dfe44e03311e8824c9a0be4099a71620, type: 3}
+    - {fileID: 371897663768416904, guid: de23d4536910f9948a5de0667a11716e, type: 3}
+    - {fileID: 7753799428449799172, guid: a78592f993d83b444add7a1e20789448, type: 3}
+    - {fileID: 4454085396997522540, guid: 47c29a2f12d718d4d873a1a02d7c7edd, type: 3}
+    - {fileID: 2638442566946161810, guid: be0768abf64f51145aaab05af9288645, type: 3}
+    - {fileID: 413466846476331587, guid: dc8bdef3cfe328d408db579499cb5735, type: 3}
+    - {fileID: 4924450137522726751, guid: 9b57972a32996d040addfc1a4b5ff3fe, type: 3}
+    - {fileID: 2827291677245619173, guid: 6d5e529bf58a3fa449e2fc2058b02e4f, type: 3}
+    - {fileID: 713216807551924838, guid: 85e55018d0473ca40b7347ecf2755551, type: 3}
+    Number_of_objects: 2
+    BuildingBonusMultiplier: 0.8
+  Active_Building_Index: 0

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5f71ad873d1e944aa3f3662dfafba4d, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  total_money: 1263.3201
+  time_per_turn: 5
+  LootUpgrade_currentLevel: 1
+  SpeedUpgrade_currentLevel: 0
+  CrewUpgrade_currentLevel: 0
+  OEUpgrade_currentLevel: 0
+  Crew_size: 1
+  Active_City_Index: 0
+  Active_Building_Index: 0
+  Player_Level: 0
+  Prestige_Level: 0
+  RevenueHitMarker_Level: 500
+  RevenueHitMarker_Level_Multiplier: 0.8
+  LevelUp_Reward_Multiplier: 0.2
+  RemoveObjectsTime: 0.4
+  TappingAnimationSpeedMultiplier: 2
+  AnimationSpeed: 1
+  TappingLootSpeedMultiplier: 0.1
+  _loot_per_crew_member_PrestigeMultiplier:
+  - 1
+  - 2
+  isTutorialStarted: 1
+  isTutorialTapFaster: 1
+  isTutorialUpgrade: 1
+  isTutorialBoosts: 1
+  isTutorialOver: 1
