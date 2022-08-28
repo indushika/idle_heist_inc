@@ -1,3 +1,3 @@
 # idle_heist_inc
 
-[![IMAGE ALT TEXT HERE]([https://drive.google.com/file/d/19lw7FvmzXXYSupSI5TcD_Pw2Y45OzB2r/view?usp=sharing](https://drive.google.com/file/d/11LMfn8y6osnljkQisz0nCCFdGhNXVTQB/view?usp=sharing))]
+[link text]([https://example.com/my-link](https://drive.google.com/drive/folders/1J_Z1zNc84CpXcWLdmXFK5UodIQ0EVCLn) "Game Play Video")
